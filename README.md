@@ -14,6 +14,15 @@ La aplicación permite la gestión de inventarios mediante códigos QR. Las func
 - **Ubicación**: La aplicación puede registrar la ubicación de los productos usando las funcionalidades de **expo-location**.
 - **Cámara**: La aplicación permite escanear códigos QR utilizando la cámara del dispositivo con permisos adecuados.
 
+### Acceso Temporal
+
+Los usuarios pueden acceder a la aplicación con un **usuario temporal** y **contraseña temporal** sin necesidad de registro previo. Las credenciales son:
+
+- **Usuario**: `nibol`
+- **Contraseña**: `Temporal123`
+
+Estas credenciales permiten el acceso completo a la aplicación.
+
 ## Tecnologías y Librerías Utilizadas
 
 - **React Native**: Framework de desarrollo móvil que permite crear aplicaciones nativas utilizando JavaScript y React.
